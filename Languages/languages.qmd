@@ -1,0 +1,16 @@
+---
+title: "All programming languages"
+format: html
+---
+
+## What languages do you speak?
+- Add a table that includes all (programming) languages that you speak to the document.
+
+### Lukas 
+| Programming Language | Level |
+| --- | --- |
+| R | Proficient |
+| Stata | Proficient |
+| Python | Beginner|
+
+### ...

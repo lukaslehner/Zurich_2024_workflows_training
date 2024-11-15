@@ -18,3 +18,9 @@ format: html
 | --- | --- |
 | R | Proficient |
 | Python | Beginner|
+
+### Dino
+| Programming Language | Level |
+| --- | --- |
+| R | Proficient |
+| Python | Beginner|

@@ -13,8 +13,14 @@ format: html
 | Stata | Proficient |
 | Python | Beginner|
 
-### Till
+### ...
+
+### Madleina 
 | Programming Language | Level |
 | --- | --- |
-| R/RStudio | Proficient |
-| SPSS/PSPP | Proficient |
+| R | Proficient |
+| Stata | Proficient |
+| SPSS | Proficient|
+| Python | Beginner|
+
+### ...

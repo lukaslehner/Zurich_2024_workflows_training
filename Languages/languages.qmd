@@ -13,7 +13,11 @@ format: html
 | Stata | Proficient |
 | Python | Beginner|
 
-### ...
+### Till
+| Programming Language | Level |
+| --- | --- |
+| R/RStudio | Proficient |
+| SPSS/PSPP | Proficient |
 
 ### Madleina 
 | Programming Language | Level |

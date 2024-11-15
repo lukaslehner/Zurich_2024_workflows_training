@@ -13,4 +13,7 @@ format: html
 | Stata | Proficient |
 | Python | Beginner|
 
-### ...
+### Valerie
+| Programming Language | Level |
+| --- | --- |
+| Python | Advanced |

@@ -13,13 +13,22 @@ format: html
 | Stata | Proficient |
 | Python | Beginner|
 
-### Fabienne
+### ...
+
+### Madleina 
+| Programming Language | Level |
+| --- | --- |
+| R | Proficient |
+| Stata | Proficient |
+| SPSS | Proficient|
+| Python | Beginner|
+
+### Dino
 | Programming Language | Level |
 | --- | --- |
 | R | Proficient |
 | Python | Beginner|
+=======
+### ...
 
-### Iva
-| Programming Language | Level |
-| --- | --- |
-| R | Proficient |
+

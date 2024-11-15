@@ -13,6 +13,7 @@ format: html
 | Stata | Proficient |
 | Python | Beginner|
 
+<<<<<<< Updated upstream
 ### ...
 
 ### Madleina 
@@ -24,6 +25,12 @@ format: html
 | Python | Beginner|
 
 ### Dino
+=======
+<<<<<<< Updated upstream
+### ...
+
+### Madleina 
+>>>>>>> Stashed changes
 | Programming Language | Level |
 | --- | --- |
 | R | Proficient |
